@@ -1,0 +1,150 @@
+body{
+  padding:0;
+  margin:0;
+  background: lightblue;
+}
+
+.cabecera{
+	width: 100%;
+	height: 50px;
+	margin-top: -40px;
+}
+
+.titulo{
+	color: lightblue;
+	font-size: 25px;
+}
+
+.botones{
+	text-align: right;
+	margin-top: -80px;
+}
+
+.boton{
+        font-size:20px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        width:90px;
+        height:30px;
+       }
+.foto{
+  float: left ;
+  width: 200px;
+  height: 400px;
+  margin-left: 2px;
+}
+.cuerpo{
+  float: left;
+  margin-left: 270px;
+  margin-top: -25%;
+  width: 80%;
+  height: 30%;
+  text-align: center;
+}
+.divpost{
+
+  border-radius: 20px;
+  border-bottom: 1px grey solid;
+  align-content: center;  
+  background-color: #E7EAF2;
+  padding: 30px;
+
+
+}
+.cuerpo input.post {
+  width: 90%;
+  height: 50px;
+  background-color: white;
+  padding-bottom: 25px;
+  color: black;
+  
+
+}
+
+.cuerpo .divpostear{
+  background-color: lightgrey;
+}
+.cuerpo button.postear{
+  margin-right: -80%;
+  margin-top: 10px;
+  background-color: #839BE2;
+  border: 1px black solid;
+  color: white;
+
+}
+
+.publicacionAutor{
+  margin-top:5px;
+  text-align: left;
+  border-top: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  background-color: #E7EAF2;
+}
+
+.publImagen{
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.escriImagen{
+  float: left;
+}
+
+.aTexto{
+  font-weight: bold;
+}
+
+.aTexto span{
+  font-weight: normal;
+  color: grey;
+}
+
+.enviados{
+  font-family: verdana;
+  font-size: 15px;
+  color: #337ab7;
+  background-color: white;
+  border-radius: 20px;
+  float: left;
+  width: 80%;
+  height: 5%;
+  border: 2px solid #fff;
+  margin-left: 60px;
+  padding: 4px;
+  margin-bottom: 5px;
+}
+
+.sms{
+
+  font-family: verdana;
+  font-size: 35px;
+  color: #337ab7;
+  background-color: white;
+  border-radius: 50px;
+  float: left;
+  width: 80%;
+  height: 5%;
+  border: 2px solid #fff;
+  margin-left: 60px;
+  padding: 4px;
+  margin-bottom: 5px;
+  text-align: center;
+
+}
+
+.glyphicon.glyphicon-pencil{
+  font-size: 50px;
+  float: left;
+  
+}
+
+.glyphicon.glyphicon-user{
+  font-size: 50px;
+  float: left;
+  
+}

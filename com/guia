@@ -1,0 +1,4 @@
+git add <Archivo>
+git commit -a
+git pull(descargar)
+git push origin master(subir)
